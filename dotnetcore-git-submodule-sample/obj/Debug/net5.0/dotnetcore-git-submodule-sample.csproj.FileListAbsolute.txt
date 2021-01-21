@@ -1,0 +1,12 @@
+D:\krutarth\projects\chimeratech\learn\dotnetcore-git-submodule-sample\dotnetcore-git-submodule-sample\bin\Debug\net5.0\dotnetcore-git-submodule-sample.deps.json
+D:\krutarth\projects\chimeratech\learn\dotnetcore-git-submodule-sample\dotnetcore-git-submodule-sample\bin\Debug\net5.0\dotnetcore-git-submodule-sample.dll
+D:\krutarth\projects\chimeratech\learn\dotnetcore-git-submodule-sample\dotnetcore-git-submodule-sample\bin\Debug\net5.0\ref\dotnetcore-git-submodule-sample.dll
+D:\krutarth\projects\chimeratech\learn\dotnetcore-git-submodule-sample\dotnetcore-git-submodule-sample\bin\Debug\net5.0\dotnetcore-git-submodule-sample.pdb
+D:\krutarth\projects\chimeratech\learn\dotnetcore-git-submodule-sample\dotnetcore-git-submodule-sample\obj\Debug\net5.0\dotnetcore-git-submodule-sample.csprojAssemblyReference.cache
+D:\krutarth\projects\chimeratech\learn\dotnetcore-git-submodule-sample\dotnetcore-git-submodule-sample\obj\Debug\net5.0\dotnetcore-git-submodule-sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\krutarth\projects\chimeratech\learn\dotnetcore-git-submodule-sample\dotnetcore-git-submodule-sample\obj\Debug\net5.0\dotnetcore-git-submodule-sample.AssemblyInfoInputs.cache
+D:\krutarth\projects\chimeratech\learn\dotnetcore-git-submodule-sample\dotnetcore-git-submodule-sample\obj\Debug\net5.0\dotnetcore-git-submodule-sample.AssemblyInfo.cs
+D:\krutarth\projects\chimeratech\learn\dotnetcore-git-submodule-sample\dotnetcore-git-submodule-sample\obj\Debug\net5.0\dotnetcore-git-submodule-sample.csproj.CoreCompileInputs.cache
+D:\krutarth\projects\chimeratech\learn\dotnetcore-git-submodule-sample\dotnetcore-git-submodule-sample\obj\Debug\net5.0\dotnetcore-git-submodule-sample.dll
+D:\krutarth\projects\chimeratech\learn\dotnetcore-git-submodule-sample\dotnetcore-git-submodule-sample\obj\Debug\net5.0\ref\dotnetcore-git-submodule-sample.dll
+D:\krutarth\projects\chimeratech\learn\dotnetcore-git-submodule-sample\dotnetcore-git-submodule-sample\obj\Debug\net5.0\dotnetcore-git-submodule-sample.pdb

@@ -17,5 +17,14 @@ namespace dotnetcore_git_submodule_sample
       }
       return retu;
     }
+    public static string Serialize4Print(object value)
+    {
+      string retu = "";
+      if (value != null)
+      {
+        retu = JsonConvert.SerializeObject(value, Formatting.Indented);
+      }
+      return retu;
+    }
   }
 }

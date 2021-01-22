@@ -26,14 +26,5 @@ namespace dotnetcore_git_submodule_sample
       }
       return retu;
     }
-    public static T Deserialize<T>(string jsonValue)
-    {
-      JsonSerializerSettings settings = new()
-      {
-        TypeNameHandling = TypeNameHandling.Auto
-      };
-      T retu = JsonConvert.DeserializeObject<T>(jsonValue);
-      return retu;
-    }
   }
 }

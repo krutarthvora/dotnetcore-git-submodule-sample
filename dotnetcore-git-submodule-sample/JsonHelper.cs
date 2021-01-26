@@ -3,7 +3,7 @@ using Newtonsoft.Json.Serialization;
 
 namespace dotnetcore_git_submodule_sample
 {
-	public class JSONHelper
+	public class JsonHelper
 	{
 		public static string Serialize(object value)
 		{
